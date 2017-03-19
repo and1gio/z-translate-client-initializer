@@ -1,7 +1,7 @@
 {
     "name": "z-translate-client-initializer",
     "description": "Z Translate Client Initializer",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "Giorgi Maisuradze"
     },
@@ -16,7 +16,7 @@
         }
     ],
     "dependencies": {
-        "z-translate-client": "0.0.1"
+        "z-translate-client": "0.0.2"
     },
     "main": "z-translate-client-initializer.js"
 }
